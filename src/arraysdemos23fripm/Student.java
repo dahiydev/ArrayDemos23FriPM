@@ -2,8 +2,13 @@
 package arraysdemos23fripm;
 
 public class Student {
+    
+    
+    
     private String sId;
     private String sName;
+    private String address;
+    
 
     public Student(String sId, String sName) {
         this.sId = sId;
